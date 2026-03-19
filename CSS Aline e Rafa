@@ -1,0 +1,16 @@
+<html>
+<head>
+<!-- JEITOS DE CSS -->
+ <!-- dentro da tag styl, no proprio html-->
+<style>
+#RafaAline{ color:aquamarine; font-size:220%;}
+</style>
+<!-- puxa informação de site externo, nesse caso o background color-->
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- css inline é colocado direto na tag-->
+<center><p id="RafaAline">Oi Mundo!</p>
+<p style="color: aquamarine; font-size:220%"> Oi Mundo </p>
+</body>
+</html>
